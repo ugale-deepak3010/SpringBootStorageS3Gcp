@@ -1,6 +1,6 @@
 Steps:
 
-- [ ] 1. Simple Project created with GCP Storage extension. 
+- [ ] 1. Simple Project created with GCP Storage dependency. 
 - [ ] 2. Simple controller created. 
 - [ ] 3. Simple Storage created on GCP. 
 - [ ] 4. For Storage->I'm user-> Service account-> then account created and get json file with key. 
